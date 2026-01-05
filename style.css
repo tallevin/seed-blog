@@ -49,8 +49,9 @@ html {
 }
 
 body {
-    font-family: Times New Roman, Times, serif;
+    font-family: 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Helvetica Rounded', 'Avenir Next Rounded', sans-serif;
     font-size: 1.23em;
+    letter-spacing: .025em;
     -webkit-font-smoothing: antialiased;
 }
 
