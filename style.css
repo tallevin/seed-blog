@@ -48,6 +48,13 @@ html {
     }
 }
 
+@font-face {
+    font-family: 'SF Mono';
+    src: url('fonts/SF-Mono-Regular.otf') format('opentype'),
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
     font-family: 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Helvetica Rounded', 'Avenir Next Rounded', sans-serif;
     font-size: 1.23em;
