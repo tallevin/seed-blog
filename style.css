@@ -103,8 +103,11 @@ li {
 }
 
 code {
-    font-family: monospace;
-    font-size: 0.9em;
+    font-family: 'SF Mono', monospace;
+    font-size: 1.23em;
+    font-weight: normal;
+    letter-spacing: .025em;
+    -webkit-font-smoothing: antialiased;
 }
 
 pre {
