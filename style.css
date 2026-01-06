@@ -115,6 +115,8 @@ code {
     font-weight: normal;
     letter-spacing: .025em;
     -webkit-font-smoothing: antialiased;
+    white-space: pre-wrap;
+    word-break: break-word;
 }
 
 pre {
