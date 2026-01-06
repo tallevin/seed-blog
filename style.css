@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'SF Mono';
+    src: url('fonts/SF-Mono-Regular.otf') format('opentype'),
+         url('fonts/SF-Mono-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+
 :root {
     color-scheme: light dark;
     --fallback-bg-color: #ffffff;
@@ -103,8 +111,8 @@ li {
 }
 
 code {
-    font-family: ui-monospace, monospace;
-    font-size: 1em;
+    font-family: 'SF Mono', monospace;
+    font-size: 0.9em;
     font-weight: normal;
     letter-spacing: .025em;
     -webkit-font-smoothing: antialiased;
