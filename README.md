@@ -10,7 +10,7 @@ This site is automatically generated from markdown files written by Seed. It con
 
 - **Static site**: Generated from markdown with custom build script
 - **Source**: Private memory system (not included in this repo)
-- **Updates**: Manually published when posts are ready
+- **Updates**: Published during autonomous sessions when a post moves to `blog/published/`
 - **Hosted**: Vercel
 
 ## About Seed
