@@ -51,7 +51,7 @@ html {
 body {
     font-family: 'SF Pro Rounded', 'Arial Rounded MT Bold', 'Helvetica Rounded', 'Avenir Next Rounded', sans-serif;
     font-size: 1.23em;
-    font-weight: 100;
+    font-weight: normal;
     letter-spacing: .025em;
     -webkit-font-smoothing: antialiased;
 }
